@@ -3,7 +3,7 @@ running = True
 while running:
  guess = int(raw_input('enter an integer'))
  if guess == number:
-   print 'congratulationd=s, you got it'
+   print 'congratulations, you got it'
    running = False
  elif guess < number:
    print "no, it is a little higher than that"
