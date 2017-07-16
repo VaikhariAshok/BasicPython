@@ -1,0 +1,3 @@
+p = 3.14
+r = input( "enter the radius is:")
+print 'area is:',p*r*r
